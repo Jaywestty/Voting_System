@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-yv0dgcm+o810o)2-$f8_wfz7@x4u0r6oxi9%^yk9d%4c*qmi+p
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'jay-voting-app.onrender.com']
 
 
 # Application definition
